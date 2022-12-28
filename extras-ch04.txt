@@ -7,8 +7,16 @@
 
 ![](cs-reactable.md){.include}
 
+## Η περίπτωση της Siri ως Assistant Technology
+
+![](cs-siri-assistant.md){.include}
+
 ## Σύντομη βιογραφία του Bill Atkinson
 
 ![](bio-atkinson.md){.include}
+
+## Σύντομη βιογραφία του Adam Cheyer
+
+![](bio-cheyer.md){.include}
 
 ## Βιβλιογραφία

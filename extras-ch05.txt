@@ -7,6 +7,14 @@
 
 ![](cs-affective.md){.include}
 
+## Η χρήση των πρακτόρων στις βοηθητικές τεχνολογίες
+
+![](cs-agents-in-assistive-technology.md){.include}
+
+## Σύντομη βιογραφία του Adam Cheyer
+
+![](bio-cheyer.md){.include}
+
 ## Σύντομη βιογραφία του Jaron Lanier
 
 ![](bio-lanier.md){.include}
